@@ -14,11 +14,11 @@ An interactive web app built with **Streamlit** that fetches real-time DeFi yiel
 ---
 
 ## 🖥️ Live Demo
+Try the app here:  
+[DeFi Yield Dashboard](https://defiyielddashboard-lbqkdovzkotwmfzbe8kmtr.streamlit.app/)
 
-> Coming soon — [Deploy to Streamlit Cloud](https://streamlit.io/cloud)  
-> _(Add your app link here once deployed)_
 
----
+
 
 ## 📦 Requirements
 
