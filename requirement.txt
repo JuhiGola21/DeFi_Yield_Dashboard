@@ -1,4 +1,5 @@
+matplotlib
 streamlit
 requests
 pandas
-matplotlib
+
